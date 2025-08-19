@@ -1,0 +1,1412 @@
+{
+    "data": {
+        "tid": "d43f3653-b8ac-4a51-bb77-e322682b239e",
+        "sid": "mdj5a12e-c556-4268-9926-da9fc28f3a22",
+        "deviceId": "ea0eff2b-863c-ade2-e18e-9c66c5b309df",
+        "requestId": "86952450-e1d4-4480-972e-293bf806cc91",
+        "apiTime": "2025-08-19T02:47:36.471194901Z",
+        "success": {
+            "statusMessage": "done successfully",
+            "pageOffset": {
+                "nextOffset": "CJY7ELQ4KIDoxISxp4DiAjDSEDgB",
+                "widgetOffset": {
+                    "NewListingView_category_bar_chicletranking_TwoRows": "",
+                    "NewListingView_category_bar_chicletranking_TwoRows_Rendition": "",
+                    "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo": "26",
+                    "inlineFacetFilter": "",
+                    "restaurantCountWidget": ""
+                }
+            },
+            "cards": [
+                {
+                    "card": {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                            "layout": {
+                                "columns": 2
+                            },
+                            "id": "restaurant_grid_listing_v2",
+                            "gridElements": {
+                                "infoWithStyle": {
+                                    "@type": "type.googleapis.com/swiggy.seo.widgets.v1.FoodRestaurantGridListingInfo",
+                                    "restaurants": [
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "807836",
+                                                "name": "Capsicum Food Court - Since 2007",
+                                                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/24/b94b3a75-51cf-423c-bbd6-b66bf37d3350_807836.jpg",
+                                                "locality": "Sigra",
+                                                "areaName": "Manduwadih",
+                                                "costForTwo": "₹300 for two",
+                                                "cuisines": [
+                                                    "Indian",
+                                                    "South Indian",
+                                                    "Chinese",
+                                                    "Snacks",
+                                                    "Beverages",
+                                                    "Pizzas"
+                                                ],
+                                                "avgRating": 4.3,
+                                                "veg": true,
+                                                "parentId": "624581",
+                                                "avgRatingString": "4.3",
+                                                "totalRatingsString": "4.6K+",
+                                                "sla": {
+                                                    "deliveryTime": 56,
+                                                    "lastMileTravel": 5,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "55-60 mins",
+                                                    "lastMileTravelString": "5.0 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 23:59:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {
+                                                    "imageBadges": [
+                                                        {
+                                                            "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+                                                            "description": "Delivery!"
+                                                        },
+                                                        {
+                                                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                            "description": "pureveg"
+                                                        }
+                                                    ]
+                                                },
+                                                "isOpen": true,
+                                                "aggregatedDiscountInfoV2": {},
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {
+                                                            "badgeObject": [
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "Delivery!",
+                                                                        "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "pureveg",
+                                                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "--"
+                                                    }
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/capsicum-food-court-since-2007-sigra-manduwadih-rest807836",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "77324",
+                                                "name": "Pahalwan Lassi Bhandar",
+                                                "cloudinaryImageId": "zqhw6sg7iaogomvzybfi",
+                                                "locality": "Lanka",
+                                                "areaName": "Lanka",
+                                                "costForTwo": "₹100 for two",
+                                                "cuisines": [
+                                                    "Beverages",
+                                                    "Desserts"
+                                                ],
+                                                "avgRating": 4.4,
+                                                "veg": true,
+                                                "parentId": "153713",
+                                                "avgRatingString": "4.4",
+                                                "totalRatingsString": "12K+",
+                                                "sla": {
+                                                    "deliveryTime": 47,
+                                                    "lastMileTravel": 9.2,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "45-50 mins",
+                                                    "lastMileTravelString": "9.2 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 23:00:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {
+                                                    "imageBadges": [
+                                                        {
+                                                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                            "description": "pureveg"
+                                                        }
+                                                    ]
+                                                },
+                                                "isOpen": true,
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {
+                                                            "badgeObject": [
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "pureveg",
+                                                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "aggregatedDiscountInfoV3": {
+                                                    "header": "30% OFF",
+                                                    "subHeader": "ABOVE ₹2000",
+                                                    "discountTag": "FLAT DEAL"
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "4.2",
+                                                        "ratingCount": "7.9K+"
+                                                    },
+                                                    "source": "GOOGLE",
+                                                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/pahalwan-lassi-bhandar-lanka-rest77324",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "77039",
+                                                "name": "Sri Annapurna Restaurant And Sweets",
+                                                "cloudinaryImageId": "57193500cd90880430913b6b0ee32929",
+                                                "locality": "Shakumbari Chauraha",
+                                                "areaName": "Bhelupur",
+                                                "costForTwo": "₹350 for two",
+                                                "cuisines": [
+                                                    "Sweets",
+                                                    "Snacks",
+                                                    "South Indian",
+                                                    "indian snacks",
+                                                    "Chinese",
+                                                    "North Indian"
+                                                ],
+                                                "avgRating": 4.4,
+                                                "veg": true,
+                                                "parentId": "599699",
+                                                "avgRatingString": "4.4",
+                                                "totalRatingsString": "3.5K+",
+                                                "sla": {
+                                                    "deliveryTime": 48,
+                                                    "lastMileTravel": 9.2,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "45-50 mins",
+                                                    "lastMileTravelString": "9.2 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 22:00:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {
+                                                    "imageBadges": [
+                                                        {
+                                                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                            "description": "pureveg"
+                                                        }
+                                                    ]
+                                                },
+                                                "isOpen": true,
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {
+                                                            "badgeObject": [
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "pureveg",
+                                                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "aggregatedDiscountInfoV3": {
+                                                    "header": "ITEMS",
+                                                    "subHeader": "AT ₹99"
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "--"
+                                                    }
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/sri-annapurna-restaurant-and-sweets-shakumbari-chauraha-bhelupur-rest77039",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "760753",
+                                                "name": "Kashi Malanna South Indian Meals And Tiffin's",
+                                                "cloudinaryImageId": "91db45c51b64ca78a36affe0f660f959",
+                                                "locality": "Khanna villa Colony",
+                                                "areaName": "Lanka",
+                                                "costForTwo": "₹400 for two",
+                                                "cuisines": [
+                                                    "South Indian"
+                                                ],
+                                                "avgRating": 4.6,
+                                                "parentId": "449082",
+                                                "avgRatingString": "4.6",
+                                                "totalRatingsString": "670",
+                                                "sla": {
+                                                    "deliveryTime": 76,
+                                                    "lastMileTravel": 6.7,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "75-80 mins",
+                                                    "lastMileTravelString": "6.7 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 15:00:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {
+                                                    "imageBadges": [
+                                                        {
+                                                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                            "description": "pureveg"
+                                                        }
+                                                    ]
+                                                },
+                                                "isOpen": true,
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {
+                                                            "badgeObject": [
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "pureveg",
+                                                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "aggregatedDiscountInfoV3": {
+                                                    "header": "ITEMS",
+                                                    "subHeader": "AT ₹99"
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "--"
+                                                    }
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/kashi-malanna-south-indian-meals-and-tiffins-khanna-villa-colony-lanka-rest760753",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "81471",
+                                                "name": "Hari Vilaas",
+                                                "cloudinaryImageId": "5ece7fb2c731a0e1807ec5b40eda94f3",
+                                                "locality": "Shastri Nagar",
+                                                "areaName": "Shastri Nagar",
+                                                "costForTwo": "₹300 for two",
+                                                "cuisines": [
+                                                    "North Indian",
+                                                    "Chinese",
+                                                    "Thalis"
+                                                ],
+                                                "avgRating": 4.3,
+                                                "veg": true,
+                                                "parentId": "93883",
+                                                "avgRatingString": "4.3",
+                                                "totalRatingsString": "16K+",
+                                                "sla": {
+                                                    "deliveryTime": 65,
+                                                    "lastMileTravel": 7.6,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "65-70 mins",
+                                                    "lastMileTravelString": "7.6 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 23:59:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {
+                                                    "imageBadges": [
+                                                        {
+                                                            "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+                                                            "description": "Delivery!"
+                                                        },
+                                                        {
+                                                            "imageId": "newg.png",
+                                                            "description": "Gourmet"
+                                                        },
+                                                        {
+                                                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                            "description": "pureveg"
+                                                        }
+                                                    ]
+                                                },
+                                                "isOpen": true,
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {
+                                                            "badgeObject": [
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "Delivery!",
+                                                                        "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "Gourmet",
+                                                                        "imageId": "newg.png"
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "pureveg",
+                                                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "aggregatedDiscountInfoV3": {
+                                                    "header": "50% OFF",
+                                                    "discountTag": "FLAT DEAL"
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "4.1",
+                                                        "ratingCount": "1.9K+"
+                                                    },
+                                                    "source": "GOOGLE",
+                                                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/hari-vilaas-shastri-nagar-rest81471",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "190999",
+                                                "name": "The Kerala House And Cafe",
+                                                "cloudinaryImageId": "ya73nl9euukaamdyw8hg",
+                                                "locality": "Lanka",
+                                                "areaName": "Lanka",
+                                                "costForTwo": "₹200 for two",
+                                                "cuisines": [
+                                                    "South Indian"
+                                                ],
+                                                "avgRating": 4,
+                                                "parentId": "210460",
+                                                "avgRatingString": "4.0",
+                                                "totalRatingsString": "4.0K+",
+                                                "sla": {
+                                                    "deliveryTime": 62,
+                                                    "lastMileTravel": 8.3,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "60-65 mins",
+                                                    "lastMileTravelString": "8.3 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 23:45:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {
+                                                    "imageBadges": [
+                                                        {
+                                                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                            "description": "pureveg"
+                                                        }
+                                                    ]
+                                                },
+                                                "isOpen": true,
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {
+                                                            "badgeObject": [
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "pureveg",
+                                                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "aggregatedDiscountInfoV3": {
+                                                    "header": "ITEMS",
+                                                    "subHeader": "AT ₹99"
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "4.1",
+                                                        "ratingCount": "14K+"
+                                                    },
+                                                    "source": "GOOGLE",
+                                                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/the-kerala-house-and-cafe-lanka-rest190999",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "142004",
+                                                "name": "Shri Narayan Mishthan Bhandar",
+                                                "cloudinaryImageId": "bdozbvtvzeaysio8nxje",
+                                                "locality": "Durgakund",
+                                                "areaName": "Beside Durga Kund",
+                                                "costForTwo": "₹200 for two",
+                                                "cuisines": [
+                                                    "Sweets",
+                                                    "Snacks",
+                                                    "Kachori Sabji"
+                                                ],
+                                                "avgRating": 4.2,
+                                                "veg": true,
+                                                "parentId": "186711",
+                                                "avgRatingString": "4.2",
+                                                "totalRatingsString": "7.9K+",
+                                                "sla": {
+                                                    "deliveryTime": 52,
+                                                    "lastMileTravel": 7.9,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "50-55 mins",
+                                                    "lastMileTravelString": "7.9 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 23:00:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {
+                                                    "imageBadges": [
+                                                        {
+                                                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                            "description": "pureveg"
+                                                        }
+                                                    ]
+                                                },
+                                                "isOpen": true,
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {
+                                                            "badgeObject": [
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "pureveg",
+                                                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "aggregatedDiscountInfoV3": {
+                                                    "header": "20% OFF",
+                                                    "subHeader": "ABOVE ₹600",
+                                                    "discountTag": "FLAT DEAL"
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "--"
+                                                    }
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/shri-narayan-mishthan-bhandar-durgakund-beside-durga-kund-rest142004",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "925171",
+                                                "name": "Royal Dosa",
+                                                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/13/854d33f2-6447-40e6-873d-4009011dffff_925171.jpg",
+                                                "locality": "Railwayganj Colony",
+                                                "areaName": "Sigra",
+                                                "costForTwo": "₹200 for two",
+                                                "cuisines": [
+                                                    "Chinese",
+                                                    "Continental"
+                                                ],
+                                                "veg": true,
+                                                "parentId": "172037",
+                                                "avgRatingString": "--",
+                                                "sla": {
+                                                    "deliveryTime": 68,
+                                                    "lastMileTravel": 8.3,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "65-70 mins",
+                                                    "lastMileTravelString": "8.3 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 23:30:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {
+                                                    "imageBadges": [
+                                                        {
+                                                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                            "description": "pureveg"
+                                                        }
+                                                    ]
+                                                },
+                                                "isOpen": true,
+                                                "aggregatedDiscountInfoV2": {},
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {
+                                                            "badgeObject": [
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "pureveg",
+                                                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "--"
+                                                    }
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/royal-dosa-railwayganj-colony-sigra-rest925171",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "600759",
+                                                "name": "South King",
+                                                "cloudinaryImageId": "gybulkl0zkcsrihzjoxa",
+                                                "locality": "Jawahar Nagar Colony",
+                                                "areaName": "Bhelupur",
+                                                "costForTwo": "₹200 for two",
+                                                "cuisines": [
+                                                    "South Indian"
+                                                ],
+                                                "avgRating": 4.3,
+                                                "veg": true,
+                                                "parentId": "191453",
+                                                "avgRatingString": "4.3",
+                                                "totalRatingsString": "116",
+                                                "sla": {
+                                                    "deliveryTime": 55,
+                                                    "lastMileTravel": 8.3,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "55-60 mins",
+                                                    "lastMileTravelString": "8.3 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 23:30:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {},
+                                                "isOpen": true,
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {},
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "aggregatedDiscountInfoV3": {
+                                                    "header": "30% OFF",
+                                                    "discountTag": "FLAT DEAL"
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "--"
+                                                    }
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/south-king-jawahar-nagar-colony-bhelupur-rest600759",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "1051274",
+                                                "name": "Annapurna Restaurant",
+                                                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/15/2857ceea-8835-420d-ade1-ddd4799b5a73_1051274.jpg",
+                                                "locality": "VIJYA NAGARAM MARKET",
+                                                "areaName": "Sigra",
+                                                "costForTwo": "₹200 for two",
+                                                "cuisines": [
+                                                    "North Indian"
+                                                ],
+                                                "avgRating": 4,
+                                                "veg": true,
+                                                "parentId": "2957",
+                                                "avgRatingString": "4.0",
+                                                "totalRatingsString": "31",
+                                                "sla": {
+                                                    "deliveryTime": 55,
+                                                    "lastMileTravel": 4,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "50-55 mins",
+                                                    "lastMileTravelString": "4.0 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-20 03:00:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {},
+                                                "isOpen": true,
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {},
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "aggregatedDiscountInfoV3": {
+                                                    "header": "₹40 OFF",
+                                                    "subHeader": "ABOVE ₹399",
+                                                    "discountTag": "FLAT DEAL"
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "isNewlyOnboarded": true,
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "--"
+                                                    }
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/annapurna-restaurant-vijya-nagaram-market-sigra-rest1051274",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "641378",
+                                                "name": "Indian Food Express",
+                                                "cloudinaryImageId": "rgcnbmht8hebgjhpohtk",
+                                                "locality": "Gandhi Nagar",
+                                                "areaName": "IIT",
+                                                "costForTwo": "₹200 for two",
+                                                "cuisines": [
+                                                    "North Indian",
+                                                    "Snacks",
+                                                    "Indian",
+                                                    "Thalis"
+                                                ],
+                                                "avgRating": 4.5,
+                                                "veg": true,
+                                                "parentId": "106521",
+                                                "avgRatingString": "4.5",
+                                                "totalRatingsString": "396",
+                                                "sla": {
+                                                    "deliveryTime": 79,
+                                                    "lastMileTravel": 8,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "75-80 mins",
+                                                    "lastMileTravelString": "8.0 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 23:00:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {
+                                                    "imageBadges": [
+                                                        {
+                                                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                            "description": "pureveg"
+                                                        }
+                                                    ]
+                                                },
+                                                "isOpen": true,
+                                                "aggregatedDiscountInfoV2": {},
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {
+                                                            "badgeObject": [
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "pureveg",
+                                                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "--"
+                                                    }
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/indian-food-express-gandhi-nagar-iit-rest641378",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "711683",
+                                                "name": "The Paratha Factory",
+                                                "cloudinaryImageId": "757ceda0d8bc9a5a787e60bef972ddc7",
+                                                "locality": "Taktakpur",
+                                                "areaName": "Nadesar",
+                                                "costForTwo": "₹200 for two",
+                                                "cuisines": [
+                                                    "Indian",
+                                                    "Snacks",
+                                                    "Chinese",
+                                                    "South Indian",
+                                                    "Pizzas"
+                                                ],
+                                                "avgRating": 3.6,
+                                                "parentId": "11891",
+                                                "avgRatingString": "3.6",
+                                                "totalRatingsString": "121",
+                                                "sla": {
+                                                    "deliveryTime": 71,
+                                                    "lastMileTravel": 5.9,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "70-75 mins",
+                                                    "lastMileTravelString": "5.9 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-26 00:00:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {},
+                                                "isOpen": true,
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {},
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "aggregatedDiscountInfoV3": {
+                                                    "header": "10% OFF",
+                                                    "subHeader": "UPTO ₹40"
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "--"
+                                                    }
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/the-paratha-factory-taktakpur-nadesar-rest711683",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "959726",
+                                                "name": "Annapurna Dhaba",
+                                                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/21/8e264a20-094a-4ed4-9d11-dee4ed401f0d_959726.jpg",
+                                                "locality": "Sigra",
+                                                "areaName": "Sigra",
+                                                "costForTwo": "₹200 for two",
+                                                "cuisines": [
+                                                    "Chinese"
+                                                ],
+                                                "veg": true,
+                                                "parentId": "34036",
+                                                "avgRatingString": "--",
+                                                "sla": {
+                                                    "deliveryTime": 53,
+                                                    "lastMileTravel": 4.4,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "50-55 mins",
+                                                    "lastMileTravelString": "4.4 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 15:15:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {},
+                                                "isOpen": true,
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {},
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "aggregatedDiscountInfoV3": {
+                                                    "header": "20% OFF",
+                                                    "subHeader": "UPTO ₹50"
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "--"
+                                                    }
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/annapurna-dhaba-sigra-rest959726",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "1102721",
+                                                "name": "Laxmi Restaurant",
+                                                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/26/cba67906-e3ad-451c-9619-5e88c6c89c19_1102721.jpg",
+                                                "locality": "Nadesar",
+                                                "areaName": "Nadesar",
+                                                "costForTwo": "₹200 for two",
+                                                "cuisines": [
+                                                    "Indian"
+                                                ],
+                                                "veg": true,
+                                                "parentId": "123992",
+                                                "avgRatingString": "NEW",
+                                                "sla": {
+                                                    "deliveryTime": 56,
+                                                    "lastMileTravel": 7.3,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "55-60 mins",
+                                                    "lastMileTravelString": "7.3 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-19 22:00:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {},
+                                                "isOpen": true,
+                                                "aggregatedDiscountInfoV2": {},
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {},
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "isNewlyOnboarded": true,
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "--"
+                                                    }
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/laxmi-restaurant-nadesar-rest1102721",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        },
+                                        {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                            "info": {
+                                                "id": "81376",
+                                                "name": "Vaishno Punjabi Dhaba",
+                                                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/11/900b02d3-70b3-4166-92d1-e0dae980ef7a_81376 (1).jpg",
+                                                "locality": "Sigra",
+                                                "areaName": "Sigra",
+                                                "costForTwo": "₹250 for two",
+                                                "cuisines": [
+                                                    "Thalis",
+                                                    "Chinese",
+                                                    "Fast Food"
+                                                ],
+                                                "avgRating": 3.2,
+                                                "veg": true,
+                                                "parentId": "18202",
+                                                "avgRatingString": "3.2",
+                                                "totalRatingsString": "4.0K+",
+                                                "sla": {
+                                                    "deliveryTime": 48,
+                                                    "lastMileTravel": 5.6,
+                                                    "serviceability": "SERVICEABLE",
+                                                    "slaString": "45-50 mins",
+                                                    "lastMileTravelString": "5.6 km",
+                                                    "iconType": "ICON_TYPE_EMPTY"
+                                                },
+                                                "availability": {
+                                                    "nextCloseTime": "2025-08-20 02:00:00",
+                                                    "opened": true
+                                                },
+                                                "badges": {
+                                                    "imageBadges": [
+                                                        {
+                                                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                            "description": "pureveg"
+                                                        }
+                                                    ]
+                                                },
+                                                "isOpen": true,
+                                                "type": "F",
+                                                "badgesV2": {
+                                                    "entityBadges": {
+                                                        "imageBased": {
+                                                            "badgeObject": [
+                                                                {
+                                                                    "attributes": {
+                                                                        "description": "pureveg",
+                                                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        },
+                                                        "textBased": {},
+                                                        "textExtendedBadges": {}
+                                                    }
+                                                },
+                                                "aggregatedDiscountInfoV3": {
+                                                    "header": "ITEMS",
+                                                    "subHeader": "AT ₹29"
+                                                },
+                                                "orderabilityCommunication": {
+                                                    "title": {},
+                                                    "subTitle": {},
+                                                    "message": {},
+                                                    "customIcon": {}
+                                                },
+                                                "differentiatedUi": {
+                                                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                    "differentiatedUiMediaDetails": {
+                                                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                        "lottie": {},
+                                                        "video": {}
+                                                    }
+                                                },
+                                                "reviewsSummary": {},
+                                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                                "restaurantOfferPresentationInfo": {},
+                                                "externalRatings": {
+                                                    "aggregatedRating": {
+                                                        "rating": "1.9",
+                                                        "ratingCount": "41"
+                                                    },
+                                                    "source": "GOOGLE",
+                                                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                                },
+                                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                            },
+                                            "analytics": {
+                                                "context": "seo-data-e385491a-833d-4f39-8ed5-02b119d4004e"
+                                            },
+                                            "cta": {
+                                                "link": "https://www.swiggy.com/city/varanasi/vaishno-punjabi-dhaba-sigra-rest81376",
+                                                "text": "RESTAURANT_MENU",
+                                                "type": "WEBLINK"
+                                            },
+                                            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                        }
+                                    ],
+                                    "theme": "SeoRestaurantListingGridWidget"
+                                }
+                            }
+                        }
+                    }
+                }
+            ],
+            "nextFetch": 3
+        },
+        "jid": "mde98af8-5593-496f-a4c5-375cb9e8c45a"
+    },
+    "statusCode": 0
+}
